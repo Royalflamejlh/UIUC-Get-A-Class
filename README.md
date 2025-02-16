@@ -1,4 +1,6 @@
-# Automatically register for a Class at University of Illinois via Self Service Emails
+## Automatically register for a Class at University of Illinois via Self Service Emails
+
+### I used this in 2022! It may not work anymore! 
 
 You will need to set up a chrome driver for selenium, and adjust scripts to your personal email or class configuration
 
